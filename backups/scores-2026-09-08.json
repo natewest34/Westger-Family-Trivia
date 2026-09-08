@@ -1,0 +1,2667 @@
+{
+  "_init": "scores bin — daily results get added automatically",
+  "2026-08-08": {
+    "Kelsey": {
+      "score": 6,
+      "total": 10,
+      "answers": [
+        {
+          "category": "History",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "When did the British hand-over sovereignty of Hong Kong back to China?",
+          "chosenAnswer": "1997",
+          "correctAnswer": "1997"
+        },
+        {
+          "category": "Entertainment: Books",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "In The Lies Of Locke Lamora, what does \"Lamora\" mean in Throne Therin?",
+          "chosenAnswer": "Justice",
+          "correctAnswer": "Shadow"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "Where is the city of Haarlem located?",
+          "chosenAnswer": "Switzerland",
+          "correctAnswer": "The Netherlands"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Which planet in the Solar System is the closest to the Sun?",
+          "chosenAnswer": "Mercury",
+          "correctAnswer": "Mercury"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which of the following is an album by punk rock band Anti-Flag?",
+          "chosenAnswer": "For Blood And Empire",
+          "correctAnswer": "For Blood And Empire"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What is the largest country in the world?",
+          "chosenAnswer": "Russia",
+          "correctAnswer": "Russia"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Which of the following actors does not play a role in the movie \"The Usual Suspects?\"",
+          "chosenAnswer": "Gabriel Byrne",
+          "correctAnswer": "Steve Buscemi"
+        },
+        {
+          "category": "Science: Gadgets",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What does SSD stand for in the context of computer storage?",
+          "chosenAnswer": "Software Storage Device",
+          "correctAnswer": " Solid State Drive"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Who is the chemical element Curium named after?",
+          "chosenAnswer": "Marie & Pierre Curie",
+          "correctAnswer": "Marie & Pierre Curie"
+        },
+        {
+          "category": "Science: Gadgets",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which of the following is not a type of computer mouse?",
+          "chosenAnswer": "Smoothie mouse",
+          "correctAnswer": "Smoothie mouse"
+        }
+      ],
+      "timeSeconds": 106,
+      "submittedAt": "2026-08-09T02:15:42.066Z"
+    },
+    "Nathan": {
+      "score": 6,
+      "total": 10,
+      "answers": [
+        {
+          "category": "History",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "When did the British hand-over sovereignty of Hong Kong back to China?",
+          "chosenAnswer": "1900",
+          "correctAnswer": "1997"
+        },
+        {
+          "category": "Entertainment: Books",
+          "difficulty": "hard",
+          "correct": true,
+          "question": "In The Lies Of Locke Lamora, what does \"Lamora\" mean in Throne Therin?",
+          "chosenAnswer": "Shadow",
+          "correctAnswer": "Shadow"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "hard",
+          "correct": true,
+          "question": "Where is the city of Haarlem located?",
+          "chosenAnswer": "The Netherlands",
+          "correctAnswer": "The Netherlands"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Which planet in the Solar System is the closest to the Sun?",
+          "chosenAnswer": "Mercury",
+          "correctAnswer": "Mercury"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which of the following is an album by punk rock band Anti-Flag?",
+          "chosenAnswer": "No Pads, No Helmets...Just Balls",
+          "correctAnswer": "For Blood And Empire"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What is the largest country in the world?",
+          "chosenAnswer": "Russia",
+          "correctAnswer": "Russia"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Which of the following actors does not play a role in the movie \"The Usual Suspects?\"",
+          "chosenAnswer": "Gabriel Byrne",
+          "correctAnswer": "Steve Buscemi"
+        },
+        {
+          "category": "Science: Gadgets",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What does SSD stand for in the context of computer storage?",
+          "chosenAnswer": " Solid State Drive",
+          "correctAnswer": " Solid State Drive"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Who is the chemical element Curium named after?",
+          "chosenAnswer": "Marie & Pierre Curie",
+          "correctAnswer": "Marie & Pierre Curie"
+        },
+        {
+          "category": "Science: Gadgets",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which of the following is not a type of computer mouse?",
+          "chosenAnswer": "Drum mouse",
+          "correctAnswer": "Smoothie mouse"
+        }
+      ],
+      "timeSeconds": 85,
+      "submittedAt": "2026-08-09T02:16:12.597Z"
+    },
+    "Michaela": {
+      "score": 3,
+      "total": 10,
+      "answers": [
+        {
+          "category": "History",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "When did the British hand-over sovereignty of Hong Kong back to China?",
+          "chosenAnswer": "1900",
+          "correctAnswer": "1997"
+        },
+        {
+          "category": "Entertainment: Books",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "In The Lies Of Locke Lamora, what does \"Lamora\" mean in Throne Therin?",
+          "chosenAnswer": "Justice",
+          "correctAnswer": "Shadow"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "Where is the city of Haarlem located?",
+          "chosenAnswer": "United States",
+          "correctAnswer": "The Netherlands"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Which planet in the Solar System is the closest to the Sun?",
+          "chosenAnswer": "Mercury",
+          "correctAnswer": "Mercury"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which of the following is an album by punk rock band Anti-Flag?",
+          "chosenAnswer": "No Pads, No Helmets...Just Balls",
+          "correctAnswer": "For Blood And Empire"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What is the largest country in the world?",
+          "chosenAnswer": "China",
+          "correctAnswer": "Russia"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Which of the following actors does not play a role in the movie \"The Usual Suspects?\"",
+          "chosenAnswer": "Steve Buscemi",
+          "correctAnswer": "Steve Buscemi"
+        },
+        {
+          "category": "Science: Gadgets",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What does SSD stand for in the context of computer storage?",
+          "chosenAnswer": "Software Storage Device",
+          "correctAnswer": " Solid State Drive"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Who is the chemical element Curium named after?",
+          "chosenAnswer": "Marie & Pierre Curie",
+          "correctAnswer": "Marie & Pierre Curie"
+        },
+        {
+          "category": "Science: Gadgets",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which of the following is not a type of computer mouse?",
+          "chosenAnswer": "Drum mouse",
+          "correctAnswer": "Smoothie mouse"
+        }
+      ],
+      "timeSeconds": 81,
+      "submittedAt": "2026-08-09T02:20:48.652Z"
+    },
+    "Hannah": {
+      "score": 3,
+      "total": 10,
+      "answers": [
+        {
+          "category": "History",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "When did the British hand-over sovereignty of Hong Kong back to China?",
+          "chosenAnswer": "1841",
+          "correctAnswer": "1997"
+        },
+        {
+          "category": "Entertainment: Books",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "In The Lies Of Locke Lamora, what does \"Lamora\" mean in Throne Therin?",
+          "chosenAnswer": "Justice",
+          "correctAnswer": "Shadow"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "hard",
+          "correct": true,
+          "question": "Where is the city of Haarlem located?",
+          "chosenAnswer": "The Netherlands",
+          "correctAnswer": "The Netherlands"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Which planet in the Solar System is the closest to the Sun?",
+          "chosenAnswer": "Mars",
+          "correctAnswer": "Mercury"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which of the following is an album by punk rock band Anti-Flag?",
+          "chosenAnswer": "No Pads, No Helmets...Just Balls",
+          "correctAnswer": "For Blood And Empire"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What is the largest country in the world?",
+          "chosenAnswer": "Russia",
+          "correctAnswer": "Russia"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Which of the following actors does not play a role in the movie \"The Usual Suspects?\"",
+          "chosenAnswer": "Gabriel Byrne",
+          "correctAnswer": "Steve Buscemi"
+        },
+        {
+          "category": "Science: Gadgets",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What does SSD stand for in the context of computer storage?",
+          "chosenAnswer": "Software Storage Device",
+          "correctAnswer": " Solid State Drive"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Who is the chemical element Curium named after?",
+          "chosenAnswer": "Marie & Pierre Curie",
+          "correctAnswer": "Marie & Pierre Curie"
+        },
+        {
+          "category": "Science: Gadgets",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which of the following is not a type of computer mouse?",
+          "chosenAnswer": "Drum mouse",
+          "correctAnswer": "Smoothie mouse"
+        }
+      ],
+      "timeSeconds": 83,
+      "submittedAt": "2026-08-09T02:20:57.310Z"
+    },
+    "Jessie": {
+      "score": 4,
+      "total": 10,
+      "answers": [
+        {
+          "category": "History",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "When did the British hand-over sovereignty of Hong Kong back to China?",
+          "chosenAnswer": "1841",
+          "correctAnswer": "1997"
+        },
+        {
+          "category": "Entertainment: Books",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "In The Lies Of Locke Lamora, what does \"Lamora\" mean in Throne Therin?",
+          "chosenAnswer": "Thievery",
+          "correctAnswer": "Shadow"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "Where is the city of Haarlem located?",
+          "chosenAnswer": "Germany",
+          "correctAnswer": "The Netherlands"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Which planet in the Solar System is the closest to the Sun?",
+          "chosenAnswer": "Mercury",
+          "correctAnswer": "Mercury"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which of the following is an album by punk rock band Anti-Flag?",
+          "chosenAnswer": "No Pads, No Helmets...Just Balls",
+          "correctAnswer": "For Blood And Empire"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What is the largest country in the world?",
+          "chosenAnswer": "Russia",
+          "correctAnswer": "Russia"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Which of the following actors does not play a role in the movie \"The Usual Suspects?\"",
+          "chosenAnswer": "Benicio Del Toro",
+          "correctAnswer": "Steve Buscemi"
+        },
+        {
+          "category": "Science: Gadgets",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What does SSD stand for in the context of computer storage?",
+          "chosenAnswer": "Software Storage Device",
+          "correctAnswer": " Solid State Drive"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Who is the chemical element Curium named after?",
+          "chosenAnswer": "Marie & Pierre Curie",
+          "correctAnswer": "Marie & Pierre Curie"
+        },
+        {
+          "category": "Science: Gadgets",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which of the following is not a type of computer mouse?",
+          "chosenAnswer": "Smoothie mouse",
+          "correctAnswer": "Smoothie mouse"
+        }
+      ],
+      "timeSeconds": 130,
+      "submittedAt": "2026-08-09T03:13:08.025Z"
+    },
+    "Cheryl": {
+      "score": 4,
+      "total": 10,
+      "answers": [
+        {
+          "category": "History",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "When did the British hand-over sovereignty of Hong Kong back to China?",
+          "chosenAnswer": "1900",
+          "correctAnswer": "1997"
+        },
+        {
+          "category": "Entertainment: Books",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "In The Lies Of Locke Lamora, what does \"Lamora\" mean in Throne Therin?",
+          "chosenAnswer": "Thievery",
+          "correctAnswer": "Shadow"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "Where is the city of Haarlem located?",
+          "chosenAnswer": "United States",
+          "correctAnswer": "The Netherlands"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Which planet in the Solar System is the closest to the Sun?",
+          "chosenAnswer": "Mercury",
+          "correctAnswer": "Mercury"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which of the following is an album by punk rock band Anti-Flag?",
+          "chosenAnswer": "No Pads, No Helmets...Just Balls",
+          "correctAnswer": "For Blood And Empire"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What is the largest country in the world?",
+          "chosenAnswer": "United States",
+          "correctAnswer": "Russia"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Which of the following actors does not play a role in the movie \"The Usual Suspects?\"",
+          "chosenAnswer": "Steve Buscemi",
+          "correctAnswer": "Steve Buscemi"
+        },
+        {
+          "category": "Science: Gadgets",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What does SSD stand for in the context of computer storage?",
+          "chosenAnswer": "Software Storage Device",
+          "correctAnswer": " Solid State Drive"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Who is the chemical element Curium named after?",
+          "chosenAnswer": "Marie & Pierre Curie",
+          "correctAnswer": "Marie & Pierre Curie"
+        },
+        {
+          "category": "Science: Gadgets",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which of the following is not a type of computer mouse?",
+          "chosenAnswer": "Smoothie mouse",
+          "correctAnswer": "Smoothie mouse"
+        }
+      ],
+      "timeSeconds": 121,
+      "submittedAt": "2026-08-09T03:53:31.290Z"
+    }
+  },
+  "2026-08-09": {
+    "Nathan": {
+      "score": 6,
+      "total": 10,
+      "answers": [
+        {
+          "category": "General Knowledge",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "What was the height of Kingda Ka, the tallest roller coaster in the world from 2005 to 2024?",
+          "chosenAnswer": "429 ft",
+          "correctAnswer": "456 ft"
+        },
+        {
+          "category": "History",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which of these landmarks is not included in the original 'Seven Wonders of the Ancient World'?",
+          "chosenAnswer": "Colossus of Rhodes",
+          "correctAnswer": "Great Wall of China"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "How many independent countries are there within the continent of South America?",
+          "chosenAnswer": "12",
+          "correctAnswer": "12"
+        },
+        {
+          "category": "Science: Computers",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which SQL keyword is used to fetch data from a database?",
+          "chosenAnswer": "SELECT",
+          "correctAnswer": "SELECT"
+        },
+        {
+          "category": "Sports",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "In bowling, what is the term used for getting three consecutive strikes?",
+          "chosenAnswer": "Turkey",
+          "correctAnswer": "Turkey"
+        },
+        {
+          "category": "History",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "In which year did the Invasion of Kuwait by Iraq occur?",
+          "chosenAnswer": "1990",
+          "correctAnswer": "1990"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "In what year was Taylor Swift born?",
+          "chosenAnswer": "1989",
+          "correctAnswer": "1989"
+        },
+        {
+          "category": "Animals",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Cashmere is the wool from which kind of animal?",
+          "chosenAnswer": "Sheep",
+          "correctAnswer": "Goat"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "All of the following countries have official claims to territory in Antartica EXCEPT:",
+          "chosenAnswer": "United States",
+          "correctAnswer": "United States"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which of the following Japanese islands is the biggest?",
+          "chosenAnswer": "Shikoku",
+          "correctAnswer": "Honshu"
+        }
+      ],
+      "timeSeconds": 81,
+      "submittedAt": "2026-08-09T15:09:51.652Z"
+    },
+    "Cheryl": {
+      "score": 3,
+      "total": 10,
+      "answers": [
+        {
+          "category": "General Knowledge",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "What was the height of Kingda Ka, the tallest roller coaster in the world from 2005 to 2024?",
+          "chosenAnswer": "456 ft",
+          "correctAnswer": "456 ft"
+        },
+        {
+          "category": "History",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which of these landmarks is not included in the original 'Seven Wonders of the Ancient World'?",
+          "chosenAnswer": "Colossus of Rhodes",
+          "correctAnswer": "Great Wall of China"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "How many independent countries are there within the continent of South America?",
+          "chosenAnswer": "9",
+          "correctAnswer": "12"
+        },
+        {
+          "category": "Science: Computers",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which SQL keyword is used to fetch data from a database?",
+          "chosenAnswer": "SELECT",
+          "correctAnswer": "SELECT"
+        },
+        {
+          "category": "Sports",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "In bowling, what is the term used for getting three consecutive strikes?",
+          "chosenAnswer": "Eagle",
+          "correctAnswer": "Turkey"
+        },
+        {
+          "category": "History",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "In which year did the Invasion of Kuwait by Iraq occur?",
+          "chosenAnswer": "1990",
+          "correctAnswer": "1990"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "In what year was Taylor Swift born?",
+          "chosenAnswer": "1987",
+          "correctAnswer": "1989"
+        },
+        {
+          "category": "Animals",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Cashmere is the wool from which kind of animal?",
+          "chosenAnswer": "Camel",
+          "correctAnswer": "Goat"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "All of the following countries have official claims to territory in Antartica EXCEPT:",
+          "chosenAnswer": "Chile",
+          "correctAnswer": "United States"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which of the following Japanese islands is the biggest?",
+          "chosenAnswer": "Hokkaido",
+          "correctAnswer": "Honshu"
+        }
+      ],
+      "timeSeconds": 131,
+      "submittedAt": "2026-08-10T00:15:00.458Z"
+    }
+  },
+  "2026-08-10": {
+    "Nathan": {
+      "score": 5,
+      "total": 10,
+      "answers": [
+        {
+          "category": "Politics",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "What is the primary purpose of the Fourth Amendment to the US Constitution?",
+          "chosenAnswer": "Preventing unreasonable searches and seizures",
+          "correctAnswer": "Preventing unreasonable searches and seizures"
+        },
+        {
+          "category": "Entertainment: Books",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What's the second book in George R. R. Martin's 'A Song of Ice and Fire' series?",
+          "chosenAnswer": "A Storm of Swords",
+          "correctAnswer": "A Clash of Kings"
+        },
+        {
+          "category": "Art",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Who painted \"Swans Reflecting Elephants\", \"Sleep\", and \"The Persistence of Memory\"?",
+          "chosenAnswer": "Salvador Dali",
+          "correctAnswer": "Salvador Dali"
+        },
+        {
+          "category": "Celebrities",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which celebrity announced his presidency in 2015?",
+          "chosenAnswer": "Donald Trump",
+          "correctAnswer": "Kanye West"
+        },
+        {
+          "category": "History",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "The catastrophic nuclear accident that occurred in Ukraine in 1986 occurred at which power plant?",
+          "chosenAnswer": "Chernobyl",
+          "correctAnswer": "Chernobyl"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which of these Elements is a metalloid?",
+          "chosenAnswer": "Antimony",
+          "correctAnswer": "Antimony"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which country does Austria not border?",
+          "chosenAnswer": "Slovenia",
+          "correctAnswer": "France"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "In past times, what would a gentleman keep in his fob pocket?",
+          "chosenAnswer": "Watch",
+          "correctAnswer": "Watch"
+        },
+        {
+          "category": "Celebrities",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Who out of these actresses is the youngest?",
+          "chosenAnswer": "Emma Watson",
+          "correctAnswer": "Kiernan Shipka"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "What is the capital of Vietnam?",
+          "chosenAnswer": "Ho Chi Minh City",
+          "correctAnswer": "Hanoi"
+        }
+      ],
+      "timeSeconds": 78,
+      "submittedAt": "2026-08-10T13:53:47.019Z"
+    },
+    "Cheryl": {
+      "score": 3,
+      "total": 10,
+      "answers": [
+        {
+          "category": "Politics",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "What is the primary purpose of the Fourth Amendment to the US Constitution?",
+          "chosenAnswer": "Preventing unreasonable searches and seizures",
+          "correctAnswer": "Preventing unreasonable searches and seizures"
+        },
+        {
+          "category": "Entertainment: Books",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What's the second book in George R. R. Martin's 'A Song of Ice and Fire' series?",
+          "chosenAnswer": "A Dance with Dragons",
+          "correctAnswer": "A Clash of Kings"
+        },
+        {
+          "category": "Art",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Who painted \"Swans Reflecting Elephants\", \"Sleep\", and \"The Persistence of Memory\"?",
+          "chosenAnswer": "Jackson Pollock",
+          "correctAnswer": "Salvador Dali"
+        },
+        {
+          "category": "Celebrities",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which celebrity announced his presidency in 2015?",
+          "chosenAnswer": "Donald Trump",
+          "correctAnswer": "Kanye West"
+        },
+        {
+          "category": "History",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "The catastrophic nuclear accident that occurred in Ukraine in 1986 occurred at which power plant?",
+          "chosenAnswer": "Chernobyl",
+          "correctAnswer": "Chernobyl"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which of these Elements is a metalloid?",
+          "chosenAnswer": "Tin",
+          "correctAnswer": "Antimony"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which country does Austria not border?",
+          "chosenAnswer": "France",
+          "correctAnswer": "France"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "In past times, what would a gentleman keep in his fob pocket?",
+          "chosenAnswer": "Notebook",
+          "correctAnswer": "Watch"
+        },
+        {
+          "category": "Celebrities",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Who out of these actresses is the youngest?",
+          "chosenAnswer": "Ariel Winter",
+          "correctAnswer": "Kiernan Shipka"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "What is the capital of Vietnam?",
+          "chosenAnswer": "Da Nang",
+          "correctAnswer": "Hanoi"
+        }
+      ],
+      "timeSeconds": 103,
+      "submittedAt": "2026-08-10T19:31:28.084Z"
+    },
+    "Kelsey": {
+      "score": 5,
+      "total": 10,
+      "answers": [
+        {
+          "category": "Politics",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "What is the primary purpose of the Fourth Amendment to the US Constitution?",
+          "chosenAnswer": "Preventing unreasonable searches and seizures",
+          "correctAnswer": "Preventing unreasonable searches and seizures"
+        },
+        {
+          "category": "Entertainment: Books",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What's the second book in George R. R. Martin's 'A Song of Ice and Fire' series?",
+          "chosenAnswer": "A Feast for Crows",
+          "correctAnswer": "A Clash of Kings"
+        },
+        {
+          "category": "Art",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Who painted \"Swans Reflecting Elephants\", \"Sleep\", and \"The Persistence of Memory\"?",
+          "chosenAnswer": "Salvador Dali",
+          "correctAnswer": "Salvador Dali"
+        },
+        {
+          "category": "Celebrities",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which celebrity announced his presidency in 2015?",
+          "chosenAnswer": "Donald Trump",
+          "correctAnswer": "Kanye West"
+        },
+        {
+          "category": "History",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "The catastrophic nuclear accident that occurred in Ukraine in 1986 occurred at which power plant?",
+          "chosenAnswer": "Chernobyl",
+          "correctAnswer": "Chernobyl"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which of these Elements is a metalloid?",
+          "chosenAnswer": "Tin",
+          "correctAnswer": "Antimony"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which country does Austria not border?",
+          "chosenAnswer": "France",
+          "correctAnswer": "France"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "In past times, what would a gentleman keep in his fob pocket?",
+          "chosenAnswer": "Notebook",
+          "correctAnswer": "Watch"
+        },
+        {
+          "category": "Celebrities",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Who out of these actresses is the youngest?",
+          "chosenAnswer": "Ariel Winter",
+          "correctAnswer": "Kiernan Shipka"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "What is the capital of Vietnam?",
+          "chosenAnswer": "Hanoi",
+          "correctAnswer": "Hanoi"
+        }
+      ],
+      "timeSeconds": 75,
+      "submittedAt": "2026-08-11T02:05:41.451Z"
+    }
+  },
+  "2026-08-11": {
+    "Nathan": {
+      "score": 8,
+      "total": 10,
+      "answers": [
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Who is the lead singer of Pearl Jam?",
+          "chosenAnswer": "Eddie Vedder",
+          "correctAnswer": "Eddie Vedder"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Finish these lyrics from the 2016 song \"Panda\" by Desiigner: \"I got broads in _______\".",
+          "chosenAnswer": "Atlanta",
+          "correctAnswer": "Atlanta"
+        },
+        {
+          "category": "History",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "Which of these positions did the astronomer and physicist Isaac Newton not hold?",
+          "chosenAnswer": "Warden of the Royal Mint",
+          "correctAnswer": "Surveyor to the City of London"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What is the hottest planet in the solar system",
+          "chosenAnswer": "Venus",
+          "correctAnswer": "Venus"
+        },
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "In Battlestar Galactica (2004), what is the name of the President of the Twelve Colonies?",
+          "chosenAnswer": "Harry Stills",
+          "correctAnswer": "Laura Roslin"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What is Cuba's official, most widely spoken language?",
+          "chosenAnswer": "Spanish",
+          "correctAnswer": "Spanish"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "In the 2002 film \"Kung Pow! Enter the Fist\", why was Wimp Lo purposely trained wrong?",
+          "chosenAnswer": "As a joke",
+          "correctAnswer": "As a joke"
+        },
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "The HBO series \"Game of Thrones\" is based on which series of books?",
+          "chosenAnswer": "A Song of Ice and Fire",
+          "correctAnswer": "A Song of Ice and Fire"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What is the speed of light in a vacuum?",
+          "chosenAnswer": "299,792,458 m/s",
+          "correctAnswer": "299,792,458 m/s"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Which of these artists do NOT originate from France?",
+          "chosenAnswer": "The Chemical Brothers",
+          "correctAnswer": "The Chemical Brothers"
+        }
+      ],
+      "timeSeconds": 78,
+      "submittedAt": "2026-08-11T14:29:42.733Z"
+    },
+    "Kelsey": {
+      "score": 3,
+      "total": 10,
+      "answers": [
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Who is the lead singer of Pearl Jam?",
+          "chosenAnswer": "Eddie Vedder",
+          "correctAnswer": "Eddie Vedder"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Finish these lyrics from the 2016 song \"Panda\" by Desiigner: \"I got broads in _______\".",
+          "chosenAnswer": "Atlanta",
+          "correctAnswer": "Atlanta"
+        },
+        {
+          "category": "History",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "Which of these positions did the astronomer and physicist Isaac Newton not hold?",
+          "chosenAnswer": "Warden of the Royal Mint",
+          "correctAnswer": "Surveyor to the City of London"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What is the hottest planet in the solar system",
+          "chosenAnswer": "Mercury ",
+          "correctAnswer": "Venus"
+        },
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "In Battlestar Galactica (2004), what is the name of the President of the Twelve Colonies?",
+          "chosenAnswer": "William Adama",
+          "correctAnswer": "Laura Roslin"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What is Cuba's official, most widely spoken language?",
+          "chosenAnswer": "Portuguese",
+          "correctAnswer": "Spanish"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "In the 2002 film \"Kung Pow! Enter the Fist\", why was Wimp Lo purposely trained wrong?",
+          "chosenAnswer": "To test him",
+          "correctAnswer": "As a joke"
+        },
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "The HBO series \"Game of Thrones\" is based on which series of books?",
+          "chosenAnswer": "A Song of Ice and Fire",
+          "correctAnswer": "A Song of Ice and Fire"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What is the speed of light in a vacuum?",
+          "chosenAnswer": "308,215,043 m/s",
+          "correctAnswer": "299,792,458 m/s"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Which of these artists do NOT originate from France?",
+          "chosenAnswer": "Daft Punk",
+          "correctAnswer": "The Chemical Brothers"
+        }
+      ],
+      "timeSeconds": 75,
+      "submittedAt": "2026-08-12T03:39:43.575Z"
+    },
+    "Hannah": {
+      "score": 4,
+      "total": 10,
+      "answers": [
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Who is the lead singer of Pearl Jam?",
+          "chosenAnswer": "Eddie Vedder",
+          "correctAnswer": "Eddie Vedder"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Finish these lyrics from the 2016 song \"Panda\" by Desiigner: \"I got broads in _______\".",
+          "chosenAnswer": "Atlanta",
+          "correctAnswer": "Atlanta"
+        },
+        {
+          "category": "History",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "Which of these positions did the astronomer and physicist Isaac Newton not hold?",
+          "chosenAnswer": "Warden of the Royal Mint",
+          "correctAnswer": "Surveyor to the City of London"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What is the hottest planet in the solar system",
+          "chosenAnswer": "Mercury ",
+          "correctAnswer": "Venus"
+        },
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "In Battlestar Galactica (2004), what is the name of the President of the Twelve Colonies?",
+          "chosenAnswer": "William Adama",
+          "correctAnswer": "Laura Roslin"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What is Cuba's official, most widely spoken language?",
+          "chosenAnswer": "Spanish",
+          "correctAnswer": "Spanish"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "In the 2002 film \"Kung Pow! Enter the Fist\", why was Wimp Lo purposely trained wrong?",
+          "chosenAnswer": "Revenge",
+          "correctAnswer": "As a joke"
+        },
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "The HBO series \"Game of Thrones\" is based on which series of books?",
+          "chosenAnswer": "A Song of Ice and Fire",
+          "correctAnswer": "A Song of Ice and Fire"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What is the speed of light in a vacuum?",
+          "chosenAnswer": "50,461 m/s",
+          "correctAnswer": "299,792,458 m/s"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Which of these artists do NOT originate from France?",
+          "chosenAnswer": "Air",
+          "correctAnswer": "The Chemical Brothers"
+        }
+      ],
+      "timeSeconds": 82,
+      "submittedAt": "2026-08-12T03:42:32.226Z"
+    },
+    "Cheryl": {
+      "score": 7,
+      "total": 10,
+      "answers": [
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Who is the lead singer of Pearl Jam?",
+          "chosenAnswer": "Eddie Vedder",
+          "correctAnswer": "Eddie Vedder"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Finish these lyrics from the 2016 song \"Panda\" by Desiigner: \"I got broads in _______\".",
+          "chosenAnswer": "Atlanta",
+          "correctAnswer": "Atlanta"
+        },
+        {
+          "category": "History",
+          "difficulty": "hard",
+          "correct": true,
+          "question": "Which of these positions did the astronomer and physicist Isaac Newton not hold?",
+          "chosenAnswer": "Surveyor to the City of London",
+          "correctAnswer": "Surveyor to the City of London"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What is the hottest planet in the solar system",
+          "chosenAnswer": "Venus",
+          "correctAnswer": "Venus"
+        },
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "In Battlestar Galactica (2004), what is the name of the President of the Twelve Colonies?",
+          "chosenAnswer": "William Adama",
+          "correctAnswer": "Laura Roslin"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What is Cuba's official, most widely spoken language?",
+          "chosenAnswer": "Spanish",
+          "correctAnswer": "Spanish"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "In the 2002 film \"Kung Pow! Enter the Fist\", why was Wimp Lo purposely trained wrong?",
+          "chosenAnswer": "As a joke",
+          "correctAnswer": "As a joke"
+        },
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "The HBO series \"Game of Thrones\" is based on which series of books?",
+          "chosenAnswer": "A Song of Ice and Fire",
+          "correctAnswer": "A Song of Ice and Fire"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What is the speed of light in a vacuum?",
+          "chosenAnswer": "308,215,043 m/s",
+          "correctAnswer": "299,792,458 m/s"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Which of these artists do NOT originate from France?",
+          "chosenAnswer": "Air",
+          "correctAnswer": "The Chemical Brothers"
+        }
+      ],
+      "timeSeconds": 78,
+      "submittedAt": "2026-08-12T03:46:21.093Z"
+    }
+  },
+  "2026-08-12": {
+    "Nathan": {
+      "score": 4,
+      "total": 10,
+      "answers": [
+        {
+          "category": "Sports",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Which of the following player scored a hat-trick during their Manchester United debut?",
+          "chosenAnswer": "David Beckham",
+          "correctAnswer": "Wayne Rooney"
+        },
+        {
+          "category": "Science: Computers",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Nvidia's headquarters are based in which Silicon Valley city?",
+          "chosenAnswer": "Palo Alto",
+          "correctAnswer": "Santa Clara"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Who directed the 1973 film \"American Graffiti\"?",
+          "chosenAnswer": "Francis Ford Coppola",
+          "correctAnswer": "George Lucas"
+        },
+        {
+          "category": "Science: Computers",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Which of the following is a personal computer made by the Japanese company Fujitsu?",
+          "chosenAnswer": "FM-7",
+          "correctAnswer": "FM-7"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Which documentary film maker wrote and starred in the film \"My Scientology Movie\" which first debuted in 2015?",
+          "chosenAnswer": "Adam Curtis",
+          "correctAnswer": "Louis Theroux"
+        },
+        {
+          "category": "Animals",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What do you call a baby bat?",
+          "chosenAnswer": "Pup",
+          "correctAnswer": "Pup"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "The architect known as Le Corbusier was an important figure in what style of architecture?",
+          "chosenAnswer": "Gothic Revival",
+          "correctAnswer": "Modernism"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "'We Built This City' was a number one hit for which American rock band in 1985?",
+          "chosenAnswer": "Starship",
+          "correctAnswer": "Starship"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "The 2016 song \"Starboy\" by Canadian singer The Weeknd features which prominent electronic artist?",
+          "chosenAnswer": "Daft Punk",
+          "correctAnswer": "Daft Punk"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "According to Sherlock Holmes, \"If you eliminate the impossible, whatever remains, however improbable, must be the...\"",
+          "chosenAnswer": "Answer",
+          "correctAnswer": "Truth"
+        }
+      ],
+      "timeSeconds": 90,
+      "submittedAt": "2026-08-12T14:13:14.427Z"
+    },
+    "Cheryl": {
+      "score": 4,
+      "total": 10,
+      "answers": [
+        {
+          "category": "Sports",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Which of the following player scored a hat-trick during their Manchester United debut?",
+          "chosenAnswer": "David Beckham",
+          "correctAnswer": "Wayne Rooney"
+        },
+        {
+          "category": "Science: Computers",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Nvidia's headquarters are based in which Silicon Valley city?",
+          "chosenAnswer": "Santa Clara",
+          "correctAnswer": "Santa Clara"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Who directed the 1973 film \"American Graffiti\"?",
+          "chosenAnswer": "Francis Ford Coppola",
+          "correctAnswer": "George Lucas"
+        },
+        {
+          "category": "Science: Computers",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Which of the following is a personal computer made by the Japanese company Fujitsu?",
+          "chosenAnswer": "FM-7",
+          "correctAnswer": "FM-7"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Which documentary film maker wrote and starred in the film \"My Scientology Movie\" which first debuted in 2015?",
+          "chosenAnswer": "Louis Theroux",
+          "correctAnswer": "Louis Theroux"
+        },
+        {
+          "category": "Animals",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What do you call a baby bat?",
+          "chosenAnswer": "Chick",
+          "correctAnswer": "Pup"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "The architect known as Le Corbusier was an important figure in what style of architecture?",
+          "chosenAnswer": "Baroque",
+          "correctAnswer": "Modernism"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "'We Built This City' was a number one hit for which American rock band in 1985?",
+          "chosenAnswer": "Starship",
+          "correctAnswer": "Starship"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "The 2016 song \"Starboy\" by Canadian singer The Weeknd features which prominent electronic artist?",
+          "chosenAnswer": "DJ Shadow",
+          "correctAnswer": "Daft Punk"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "According to Sherlock Holmes, \"If you eliminate the impossible, whatever remains, however improbable, must be the...\"",
+          "chosenAnswer": "Answer",
+          "correctAnswer": "Truth"
+        }
+      ],
+      "timeSeconds": 152,
+      "submittedAt": "2026-08-12T15:32:17.502Z"
+    },
+    "Jessie": {
+      "score": 4,
+      "total": 10,
+      "answers": [
+        {
+          "category": "Sports",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Which of the following player scored a hat-trick during their Manchester United debut?",
+          "chosenAnswer": "Wayne Rooney",
+          "correctAnswer": "Wayne Rooney"
+        },
+        {
+          "category": "Science: Computers",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Nvidia's headquarters are based in which Silicon Valley city?",
+          "chosenAnswer": "Santa Clara",
+          "correctAnswer": "Santa Clara"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Who directed the 1973 film \"American Graffiti\"?",
+          "chosenAnswer": "Francis Ford Coppola",
+          "correctAnswer": "George Lucas"
+        },
+        {
+          "category": "Science: Computers",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Which of the following is a personal computer made by the Japanese company Fujitsu?",
+          "chosenAnswer": "MSX",
+          "correctAnswer": "FM-7"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Which documentary film maker wrote and starred in the film \"My Scientology Movie\" which first debuted in 2015?",
+          "chosenAnswer": "Joe Berlinger",
+          "correctAnswer": "Louis Theroux"
+        },
+        {
+          "category": "Animals",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What do you call a baby bat?",
+          "chosenAnswer": "Pup",
+          "correctAnswer": "Pup"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "The architect known as Le Corbusier was an important figure in what style of architecture?",
+          "chosenAnswer": "Baroque",
+          "correctAnswer": "Modernism"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "'We Built This City' was a number one hit for which American rock band in 1985?",
+          "chosenAnswer": "Starship",
+          "correctAnswer": "Starship"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "The 2016 song \"Starboy\" by Canadian singer The Weeknd features which prominent electronic artist?",
+          "chosenAnswer": "deadmau5",
+          "correctAnswer": "Daft Punk"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "According to Sherlock Holmes, \"If you eliminate the impossible, whatever remains, however improbable, must be the...\"",
+          "chosenAnswer": "Answer",
+          "correctAnswer": "Truth"
+        }
+      ],
+      "timeSeconds": 129,
+      "submittedAt": "2026-08-12T19:48:46.986Z"
+    },
+    "Michaela": {
+      "score": 7,
+      "total": 10,
+      "answers": [
+        {
+          "category": "Sports",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Which of the following player scored a hat-trick during their Manchester United debut?",
+          "chosenAnswer": "David Beckham",
+          "correctAnswer": "Wayne Rooney"
+        },
+        {
+          "category": "Science: Computers",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Nvidia's headquarters are based in which Silicon Valley city?",
+          "chosenAnswer": "Santa Clara",
+          "correctAnswer": "Santa Clara"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Who directed the 1973 film \"American Graffiti\"?",
+          "chosenAnswer": "Francis Ford Coppola",
+          "correctAnswer": "George Lucas"
+        },
+        {
+          "category": "Science: Computers",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Which of the following is a personal computer made by the Japanese company Fujitsu?",
+          "chosenAnswer": "FM-7",
+          "correctAnswer": "FM-7"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Which documentary film maker wrote and starred in the film \"My Scientology Movie\" which first debuted in 2015?",
+          "chosenAnswer": "Louis Theroux",
+          "correctAnswer": "Louis Theroux"
+        },
+        {
+          "category": "Animals",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What do you call a baby bat?",
+          "chosenAnswer": "Pup",
+          "correctAnswer": "Pup"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "The architect known as Le Corbusier was an important figure in what style of architecture?",
+          "chosenAnswer": "Baroque",
+          "correctAnswer": "Modernism"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "'We Built This City' was a number one hit for which American rock band in 1985?",
+          "chosenAnswer": "Starship",
+          "correctAnswer": "Starship"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "The 2016 song \"Starboy\" by Canadian singer The Weeknd features which prominent electronic artist?",
+          "chosenAnswer": "Daft Punk",
+          "correctAnswer": "Daft Punk"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "According to Sherlock Holmes, \"If you eliminate the impossible, whatever remains, however improbable, must be the...\"",
+          "chosenAnswer": "Truth",
+          "correctAnswer": "Truth"
+        }
+      ],
+      "timeSeconds": 83,
+      "submittedAt": "2026-08-13T02:08:20.634Z"
+    },
+    "Kelsey": {
+      "score": 2,
+      "total": 10,
+      "answers": [
+        {
+          "category": "Sports",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Which of the following player scored a hat-trick during their Manchester United debut?",
+          "chosenAnswer": "David Beckham",
+          "correctAnswer": "Wayne Rooney"
+        },
+        {
+          "category": "Science: Computers",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Nvidia's headquarters are based in which Silicon Valley city?",
+          "chosenAnswer": "Palo Alto",
+          "correctAnswer": "Santa Clara"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Who directed the 1973 film \"American Graffiti\"?",
+          "chosenAnswer": "Steven Spielberg",
+          "correctAnswer": "George Lucas"
+        },
+        {
+          "category": "Science: Computers",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Which of the following is a personal computer made by the Japanese company Fujitsu?",
+          "chosenAnswer": "MSX",
+          "correctAnswer": "FM-7"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Which documentary film maker wrote and starred in the film \"My Scientology Movie\" which first debuted in 2015?",
+          "chosenAnswer": "Adam Curtis",
+          "correctAnswer": "Louis Theroux"
+        },
+        {
+          "category": "Animals",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What do you call a baby bat?",
+          "chosenAnswer": "Pup",
+          "correctAnswer": "Pup"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "The architect known as Le Corbusier was an important figure in what style of architecture?",
+          "chosenAnswer": "Baroque",
+          "correctAnswer": "Modernism"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "'We Built This City' was a number one hit for which American rock band in 1985?",
+          "chosenAnswer": "Kansas",
+          "correctAnswer": "Starship"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "The 2016 song \"Starboy\" by Canadian singer The Weeknd features which prominent electronic artist?",
+          "chosenAnswer": "Daft Punk",
+          "correctAnswer": "Daft Punk"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "According to Sherlock Holmes, \"If you eliminate the impossible, whatever remains, however improbable, must be the...\"",
+          "chosenAnswer": "Answer",
+          "correctAnswer": "Truth"
+        }
+      ],
+      "timeSeconds": 85,
+      "submittedAt": "2026-08-13T04:30:58.487Z"
+    }
+  },
+  "2026-08-13": {
+    "Nathan": {
+      "score": 6,
+      "total": 10,
+      "answers": [
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "In \"Rick And Morty\", who shot \"Mr. Poopybutthole\" in the episode \"Total Rickall\"?",
+          "chosenAnswer": "Jerry",
+          "correctAnswer": "Beth"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What is the Capital of the United States?",
+          "chosenAnswer": "Washington, D.C.",
+          "correctAnswer": "Washington, D.C."
+        },
+        {
+          "category": "History",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which of the following countries was not an axis power during World War II?",
+          "chosenAnswer": " Soviet Union",
+          "correctAnswer": " Soviet Union"
+        },
+        {
+          "category": "Art",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "What were Marcel Duchamp's readymades?",
+          "chosenAnswer": "paintings with a barely visible outlined square",
+          "correctAnswer": "utilitarian objects elevated to the status of art"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "The moons, Miranda, Ariel, Umbriel, Titania and Oberon orbit which planet?",
+          "chosenAnswer": "Neptune",
+          "correctAnswer": "Uranus"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "A classic 1976 song by Blue Oyster Cult features the advice “Don’t Fear The” what?",
+          "chosenAnswer": "Reaper",
+          "correctAnswer": "Reaper"
+        },
+        {
+          "category": "Science: Computers",
+          "difficulty": "hard",
+          "correct": true,
+          "question": "What was the name of the first Bulgarian personal computer?",
+          "chosenAnswer": "IMKO-1",
+          "correctAnswer": "IMKO-1"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What is Russia's second-largest city?",
+          "chosenAnswer": "Saint Petersburg",
+          "correctAnswer": "Saint Petersburg"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which of the following is an album by punk rock band Anti-Flag?",
+          "chosenAnswer": "No Pads, No Helmets...Just Balls",
+          "correctAnswer": "For Blood And Empire"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What is Laos?",
+          "chosenAnswer": "Country",
+          "correctAnswer": "Country"
+        }
+      ],
+      "timeSeconds": 74,
+      "submittedAt": "2026-08-13T18:44:20.046Z"
+    },
+    "Hannah": {
+      "score": 4,
+      "total": 10,
+      "answers": [
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "In \"Rick And Morty\", who shot \"Mr. Poopybutthole\" in the episode \"Total Rickall\"?",
+          "chosenAnswer": "Rick",
+          "correctAnswer": "Beth"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What is the Capital of the United States?",
+          "chosenAnswer": "Washington, D.C.",
+          "correctAnswer": "Washington, D.C."
+        },
+        {
+          "category": "History",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which of the following countries was not an axis power during World War II?",
+          "chosenAnswer": " Soviet Union",
+          "correctAnswer": " Soviet Union"
+        },
+        {
+          "category": "Art",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "What were Marcel Duchamp's readymades?",
+          "chosenAnswer": "paintings with a barely visible outlined square",
+          "correctAnswer": "utilitarian objects elevated to the status of art"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "The moons, Miranda, Ariel, Umbriel, Titania and Oberon orbit which planet?",
+          "chosenAnswer": "Neptune",
+          "correctAnswer": "Uranus"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "A classic 1976 song by Blue Oyster Cult features the advice “Don’t Fear The” what?",
+          "chosenAnswer": "Silence",
+          "correctAnswer": "Reaper"
+        },
+        {
+          "category": "Science: Computers",
+          "difficulty": "hard",
+          "correct": true,
+          "question": "What was the name of the first Bulgarian personal computer?",
+          "chosenAnswer": "IMKO-1",
+          "correctAnswer": "IMKO-1"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What is Russia's second-largest city?",
+          "chosenAnswer": "Vladivostok",
+          "correctAnswer": "Saint Petersburg"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which of the following is an album by punk rock band Anti-Flag?",
+          "chosenAnswer": "Infinity On High",
+          "correctAnswer": "For Blood And Empire"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What is Laos?",
+          "chosenAnswer": "Country",
+          "correctAnswer": "Country"
+        }
+      ],
+      "timeSeconds": 96,
+      "submittedAt": "2026-08-13T21:52:05.572Z"
+    }
+  },
+  "2026-08-14": {
+    "Cheryl": {
+      "score": 4,
+      "total": 10,
+      "answers": [
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "What date is referenced in the 1971 song \"September\" by Earth, Wind & Fire?",
+          "chosenAnswer": "21st of September",
+          "correctAnswer": "21st of September"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What fruit is a traditional ingredient of a Black Forest Gateau?",
+          "chosenAnswer": "Cherries",
+          "correctAnswer": "Cherries"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "On the periodic table of elements, what is the symbol for Tin?",
+          "chosenAnswer": "Ti",
+          "correctAnswer": "Sn"
+        },
+        {
+          "category": "History",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "In the War of the Pacific (1879 - 1883), Bolivia lost its access to the Pacific Ocean after being defeated by which South American country?",
+          "chosenAnswer": "(no answer — time ran out)",
+          "correctAnswer": "Chile"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Who starred in the film 1973 movie \"Enter The Dragon\"?",
+          "chosenAnswer": "Jackie Chan",
+          "correctAnswer": "Bruce Lee"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Which of these songs is NOT in The Beatles' album \"Sgt. Pepper's Lonely Hearts Club Band\"?",
+          "chosenAnswer": "Fixing a Hole",
+          "correctAnswer": "Strawberry Fields Forever"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Harvard University is located in which city?",
+          "chosenAnswer": "Cambridge",
+          "correctAnswer": "Cambridge"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "According to the American rapper Nelly, what should you do when its hot in here?",
+          "chosenAnswer": "Take a cool shower",
+          "correctAnswer": "Take off all your clothes"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What is the capital of Scotland?",
+          "chosenAnswer": "Edinburgh",
+          "correctAnswer": "Edinburgh"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which of the following movies was not based on a novel by Stephen King? ",
+          "chosenAnswer": "The Green Mile",
+          "correctAnswer": "The Thing"
+        }
+      ],
+      "timeSeconds": 122,
+      "submittedAt": "2026-08-15T03:42:26.980Z"
+    }
+  },
+  "2026-08-15": {
+    "Cheryl": {
+      "score": 4,
+      "total": 10,
+      "answers": [
+        {
+          "category": "History",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Which of these countries was NOT a part of the Soviet Union?",
+          "chosenAnswer": "Afghanistan",
+          "correctAnswer": "Afghanistan"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "hard",
+          "correct": true,
+          "question": "Where was Nicki Minaj born?",
+          "chosenAnswer": "Trinidad and Tobago",
+          "correctAnswer": "Trinidad and Tobago"
+        },
+        {
+          "category": "Science: Computers",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Moore's law originally stated that the number of transistors on a microprocessor chip would double every...",
+          "chosenAnswer": "Year",
+          "correctAnswer": "Year"
+        },
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Who composed the theme song for The Simpsons?",
+          "chosenAnswer": "Ennio Morricone",
+          "correctAnswer": "Danny Elfman"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "In the English language, what is the name of the \"&\" character?",
+          "chosenAnswer": "And Sign",
+          "correctAnswer": "Ampersand"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Who plays \"Bruce Wayne\" in the 2008 movie \"The Dark Knight\"?",
+          "chosenAnswer": "Heath Ledger",
+          "correctAnswer": "Christian Bale"
+        },
+        {
+          "category": "Science: Mathematics",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What is the symbol for Displacement?",
+          "chosenAnswer": "Δr",
+          "correctAnswer": "Δr"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What is the stage name of English female rapper Mathangi Arulpragasam, who is known for the song \"Paper Planes\"?",
+          "chosenAnswer": "A.I.A.",
+          "correctAnswer": "M.I.A."
+        },
+        {
+          "category": "Sports",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Which of these jersey numbers has Shaquille O'Neal never worn?",
+          "chosenAnswer": "32",
+          "correctAnswer": "35"
+        },
+        {
+          "category": "Politics",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "What country saw a world record 315 million voters turn out for elections on May 20, 1991?",
+          "chosenAnswer": "Soviet Union",
+          "correctAnswer": "India"
+        }
+      ],
+      "timeSeconds": 119,
+      "submittedAt": "2026-08-15T15:46:05.781Z"
+    },
+    "Nathan": {
+      "score": 8,
+      "total": 10,
+      "answers": [
+        {
+          "category": "History",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Which of these countries was NOT a part of the Soviet Union?",
+          "chosenAnswer": "Afghanistan",
+          "correctAnswer": "Afghanistan"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "hard",
+          "correct": true,
+          "question": "Where was Nicki Minaj born?",
+          "chosenAnswer": "Trinidad and Tobago",
+          "correctAnswer": "Trinidad and Tobago"
+        },
+        {
+          "category": "Science: Computers",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Moore's law originally stated that the number of transistors on a microprocessor chip would double every...",
+          "chosenAnswer": "Eight Years",
+          "correctAnswer": "Year"
+        },
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Who composed the theme song for The Simpsons?",
+          "chosenAnswer": "Danny Elfman",
+          "correctAnswer": "Danny Elfman"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "In the English language, what is the name of the \"&\" character?",
+          "chosenAnswer": "Ampersand",
+          "correctAnswer": "Ampersand"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Who plays \"Bruce Wayne\" in the 2008 movie \"The Dark Knight\"?",
+          "chosenAnswer": "Christian Bale",
+          "correctAnswer": "Christian Bale"
+        },
+        {
+          "category": "Science: Mathematics",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What is the symbol for Displacement?",
+          "chosenAnswer": "Δr",
+          "correctAnswer": "Δr"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What is the stage name of English female rapper Mathangi Arulpragasam, who is known for the song \"Paper Planes\"?",
+          "chosenAnswer": "M.I.A.",
+          "correctAnswer": "M.I.A."
+        },
+        {
+          "category": "Sports",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Which of these jersey numbers has Shaquille O'Neal never worn?",
+          "chosenAnswer": "35",
+          "correctAnswer": "35"
+        },
+        {
+          "category": "Politics",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "What country saw a world record 315 million voters turn out for elections on May 20, 1991?",
+          "chosenAnswer": "Soviet Union",
+          "correctAnswer": "India"
+        }
+      ],
+      "timeSeconds": 65,
+      "submittedAt": "2026-08-15T18:10:21.794Z"
+    }
+  },
+  "2026-08-16": {
+    "Hannah": {
+      "score": 2,
+      "total": 10,
+      "answers": [
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Which country developed the AK-47 assault rifle?",
+          "chosenAnswer": "Soviet Union",
+          "correctAnswer": "Soviet Union"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which candy is NOT made by Mars?",
+          "chosenAnswer": "Twix",
+          "correctAnswer": "Almond Joy"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which continent is considered the largest and most populous continent in the world?",
+          "chosenAnswer": "Europe",
+          "correctAnswer": "Asia"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "What is the lowest layer of the Earth's atmosphere named?",
+          "chosenAnswer": "Mesosphere",
+          "correctAnswer": "Troposphere"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Who is the chemical element Curium named after?",
+          "chosenAnswer": "Marie & Pierre Curie",
+          "correctAnswer": "Marie & Pierre Curie"
+        },
+        {
+          "category": "History",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Which of the following is not in the Indo-European language family?",
+          "chosenAnswer": "Hindi",
+          "correctAnswer": "Finnish"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which of the following geographic features is a ring-shaped coral reef, island, or series of islets?",
+          "chosenAnswer": "Isthmus",
+          "correctAnswer": "Atoll"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Stars consist mainly of hydrogen and which other gas?",
+          "chosenAnswer": "Oxygen",
+          "correctAnswer": "Helium"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What is the profession of Elon Musk's mom, Maye Musk?",
+          "chosenAnswer": "Professor",
+          "correctAnswer": "Model"
+        },
+        {
+          "category": "Science: Computers",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "The Electron computer was released in Britain during 1983 for the home computing market, by which company? ",
+          "chosenAnswer": "(no answer — time ran out)",
+          "correctAnswer": "Acorn Computers"
+        }
+      ],
+      "timeSeconds": 115,
+      "submittedAt": "2026-08-17T01:10:32.214Z"
+    }
+  },
+  "2026-08-18": {
+    "Cheryl": {
+      "score": 4,
+      "total": 10,
+      "answers": [
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "hard",
+          "correct": true,
+          "question": "The theme for the popular science fiction series \"Doctor Who\" was composed by who?",
+          "chosenAnswer": "Ron Grainer",
+          "correctAnswer": "Ron Grainer"
+        },
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "In \"Star Trek: Voyager\", which episode did Voyager establish real-time communication with Starfleet Headquarters?",
+          "chosenAnswer": "Pathfinder",
+          "correctAnswer": "Pathfinder"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What name did Tom Hanks give to his volleyball companion in the film `Cast Away`?",
+          "chosenAnswer": "Wilson",
+          "correctAnswer": "Wilson"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "Who performed the guitar solo on Michael Jackson's hit \"Beat It\"?",
+          "chosenAnswer": "Eddie Van Halen",
+          "correctAnswer": "Eddie Van Halen"
+        },
+        {
+          "category": "General Knowledge",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Out of these four buildings, which one is the tallest, with a height of 2,717 ft (828 m)?",
+          "chosenAnswer": "Lotte World Tower, South Korea",
+          "correctAnswer": "Burj Khalifa, United Arab Emirates"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "What is the standard SI unit for time?",
+          "chosenAnswer": "Hour",
+          "correctAnswer": "Second"
+        },
+        {
+          "category": "Science & Nature",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "An organism described as \"heliotropic\" has a tendancy to move towards which of these things?",
+          "chosenAnswer": "Trees",
+          "correctAnswer": "Light"
+        },
+        {
+          "category": "History",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "According to scholarly estimates, what percentage of the world population at the time died due to Tamerlane's conquests?",
+          "chosenAnswer": "3%",
+          "correctAnswer": "5%"
+        },
+        {
+          "category": "Animals",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Which of the following is NOT a venomous snake?",
+          "chosenAnswer": "Malayan Krait",
+          "correctAnswer": "Reticulated python"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "In Prokofiev's 'Peter and the Wolf', the wolf itself is represented by a trio of which musical instrument?",
+          "chosenAnswer": "Clarinet",
+          "correctAnswer": "French horn"
+        }
+      ],
+      "timeSeconds": 131,
+      "submittedAt": "2026-08-18T22:55:12.754Z"
+    }
+  },
+  "2026-08-23": {
+    "Hannah": {
+      "score": 4,
+      "total": 10,
+      "answers": [
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What do the letters of the fast food chain KFC stand for?",
+          "chosenAnswer": "Kentucky Fried Chicken",
+          "correctAnswer": "Kentucky Fried Chicken"
+        },
+        {
+          "category": "Entertainment: Board Games",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Europa Universalis is a strategy video game based on which French board game?",
+          "chosenAnswer": "Power in Europe",
+          "correctAnswer": "Europa Universalis"
+        },
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "In Two and a Half Men, what is Alan Harper's son's name?",
+          "chosenAnswer": "Jake",
+          "correctAnswer": "Jake"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Which Oceanian nation is known in Māori as Aotearoa?",
+          "chosenAnswer": "Australia",
+          "correctAnswer": "New Zealand"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Kanye West at 2009 VMA's interrupted which celebrity?",
+          "chosenAnswer": "Taylor Swift",
+          "correctAnswer": "Taylor Swift"
+        },
+        {
+          "category": "History",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Who succeded Josef Stalin as the leader of the Soviet Union?",
+          "chosenAnswer": "Nikita Krushchev",
+          "correctAnswer": "Nikita Krushchev"
+        },
+        {
+          "category": "History",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which modern country is known as \"The Graveyard of Empires\"?",
+          "chosenAnswer": "Russia",
+          "correctAnswer": "Afghanistan"
+        },
+        {
+          "category": "History",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "In addition to his career as an astrologer and \"prophet\", Nostradamus published a 1555 treatise that included a section on what?",
+          "chosenAnswer": "Digging graves",
+          "correctAnswer": "Making jams and jellies"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Where is the world's oldest still operational space launch facility located?",
+          "chosenAnswer": "United States",
+          "correctAnswer": "Kazakhstan"
+        },
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "In the television show \"Lazy Town\", who is the actor of Robbie Rotten?",
+          "chosenAnswer": "Adam Sandler",
+          "correctAnswer": "Stefán Stefánsson"
+        }
+      ],
+      "timeSeconds": 108,
+      "submittedAt": "2026-08-23T17:15:53.918Z"
+    },
+    "Cheryl": {
+      "score": 3,
+      "total": 10,
+      "answers": [
+        {
+          "category": "General Knowledge",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "What do the letters of the fast food chain KFC stand for?",
+          "chosenAnswer": "Kentucky Fried Chicken",
+          "correctAnswer": "Kentucky Fried Chicken"
+        },
+        {
+          "category": "Entertainment: Board Games",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Europa Universalis is a strategy video game based on which French board game?",
+          "chosenAnswer": "Europa!",
+          "correctAnswer": "Europa Universalis"
+        },
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "In Two and a Half Men, what is Alan Harper's son's name?",
+          "chosenAnswer": "Jeremy",
+          "correctAnswer": "Jake"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Which Oceanian nation is known in Māori as Aotearoa?",
+          "chosenAnswer": "Solomon Islands",
+          "correctAnswer": "New Zealand"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Kanye West at 2009 VMA's interrupted which celebrity?",
+          "chosenAnswer": "Taylor Swift",
+          "correctAnswer": "Taylor Swift"
+        },
+        {
+          "category": "History",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Who succeded Josef Stalin as the leader of the Soviet Union?",
+          "chosenAnswer": "Georgy Malenkov",
+          "correctAnswer": "Nikita Krushchev"
+        },
+        {
+          "category": "History",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which modern country is known as \"The Graveyard of Empires\"?",
+          "chosenAnswer": "Russia",
+          "correctAnswer": "Afghanistan"
+        },
+        {
+          "category": "History",
+          "difficulty": "hard",
+          "correct": false,
+          "question": "In addition to his career as an astrologer and \"prophet\", Nostradamus published a 1555 treatise that included a section on what?",
+          "chosenAnswer": "Digging graves",
+          "correctAnswer": "Making jams and jellies"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Where is the world's oldest still operational space launch facility located?",
+          "chosenAnswer": "Russia",
+          "correctAnswer": "Kazakhstan"
+        },
+        {
+          "category": "Entertainment: Television",
+          "difficulty": "medium",
+          "correct": true,
+          "question": "In the television show \"Lazy Town\", who is the actor of Robbie Rotten?",
+          "chosenAnswer": "Stefán Stefánsson",
+          "correctAnswer": "Stefán Stefánsson"
+        }
+      ],
+      "timeSeconds": 121,
+      "submittedAt": "2026-08-23T17:18:53.515Z"
+    }
+  },
+  "2026-08-24": {
+    "Cheryl": {
+      "score": 4,
+      "total": 10,
+      "answers": [
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Who was featured in the song \"Words\" by Feint? ",
+          "chosenAnswer": "Danyka Nadeau",
+          "correctAnswer": "Laura Brehm"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "About how much money did it cost for Tommy Wiseau to make his masterpiece \"The Room\" (2003)?",
+          "chosenAnswer": "$10 Million",
+          "correctAnswer": "$6 Million"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which of these places is a location in Cornwall?",
+          "chosenAnswer": "Alicante",
+          "correctAnswer": "Barcelona"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "All of the following are classified as Finno-Ugric languages EXCEPT:",
+          "chosenAnswer": "Samoyedic",
+          "correctAnswer": "Samoyedic"
+        },
+        {
+          "category": "Animals",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "Wombats are native to which Country?",
+          "chosenAnswer": "Australia",
+          "correctAnswer": "Australia"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Which musical group won the Brit Awards in 1985, with George Michael as a member?",
+          "chosenAnswer": "U2",
+          "correctAnswer": "Wham!"
+        },
+        {
+          "category": "Entertainment: Film",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "In the movie \"V for Vendetta,\" what is the date that masked vigilante \"V\" urges people to remember?",
+          "chosenAnswer": "November 5th",
+          "correctAnswer": "November 5th"
+        },
+        {
+          "category": "Geography",
+          "difficulty": "easy",
+          "correct": false,
+          "question": "Which country does Austria not border?",
+          "chosenAnswer": "Slovakia",
+          "correctAnswer": "France"
+        },
+        {
+          "category": "Science: Computers",
+          "difficulty": "easy",
+          "correct": true,
+          "question": "How many bits are commonly in a single byte?",
+          "chosenAnswer": "Eight bits",
+          "correctAnswer": "Eight bits"
+        },
+        {
+          "category": "Entertainment: Music",
+          "difficulty": "medium",
+          "correct": false,
+          "question": "Who was walking like an Egyptian in 1981?",
+          "chosenAnswer": "R.E.M.",
+          "correctAnswer": "The Bangles"
+        }
+      ],
+      "timeSeconds": 105,
+      "submittedAt": "2026-08-24T17:59:05.278Z"
+    }
+  }
+}
